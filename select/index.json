@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "大切な人",
+  "base_artist": "Takaya Kawasaki",
+  "createdAt": "2025-12-06T07:24:41.223146Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "大切な人",
+      "artist": "川崎鷹也",
+      "has_synced": true,
+      "path": "select/01_大切な人_川崎鷹也.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "大切な人",
+      "artist": "岡村孝子",
+      "has_synced": true,
+      "path": "select/02_大切な人_岡村孝子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "大切な人",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_01_大切な人_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "大切な人",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_02_大切な人_川崎_鷹也.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "大切な人",
+      "artist": "川崎 鷹也",
+      "has_synced": false,
+      "path": "select/pl_03_大切な人_川崎_鷹也.txt"
+    }
+  ]
+}
